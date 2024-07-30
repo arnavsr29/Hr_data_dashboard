@@ -2,25 +2,25 @@
 
 Project Title: Blinkit Analysis Dashboard
 
-Approach & Key Steps:
+Approach & Key Steps:<br/>
 -Requirement Gathering: Defined business needs with stakeholders.<br/>
--Data Collection: Sourced and connected data in Power BI.
--Data Cleaning: Ensured accuracy and completeness.
--Data Modeling: Optimized relationships for analysis.
--Data Processing: Created calculated columns and measures.
--DAX Calculations: Implemented formulas for metrics validation.
--Dashboard Layout: Designed a user-friendly interface with visualizations.
--Integration & Testing: Ensured functionality and interactivity.
--Insights Generation: Extracted actionable insights and compiled findings.
+-Data Collection: Sourced and connected data in Power BI.<br/>
+-Data Cleaning: Ensured accuracy and completeness.<br/>
+-Data Modeling: Optimized relationships for analysis.<br/>
+-Data Processing: Created calculated columns and measures.<br/>
+-DAX Calculations: Implemented formulas for metrics validation.<br/>
+-Dashboard Layout: Designed a user-friendly interface with visualizations.<br/>
+-Integration & Testing: Ensured functionality and interactivity.<br/>
+-Insights Generation: Extracted actionable insights and compiled findings.<br/>
 
-Important KPIs:
--Total Sales: Overall revenue
--Average Sales: Revenue per transaction
--Items Sold: Total items sold
--Average Rating: Customer satisfaction
+Important KPIs:<br/>
+-Total Sales: Overall revenue<br/>
+-Average Sales: Revenue per transaction<br/>
+-Items Sold: Total items sold<br/>
+-Average Rating: Customer satisfaction<br/>
 
-Final Insights:
--Consumer Preferences: Trends guide marketing strategies.
--Sales Performance: Highlights top products and areas for improvement.
--Geographic Insights: Regional performance supports location-specific strategies.
--Outlet Management: Impact of outlet size and age on sales aids strategic planning.
+Final Insights:<br/>
+-Consumer Preferences: Trends guide marketing strategies.<br/>
+-Sales Performance: Highlights top products and areas for improvement.<br/>
+-Geographic Insights: Regional performance supports location-specific strategies.<br/>
+-Outlet Management: Impact of outlet size and age on sales aids strategic planning.<br/>
