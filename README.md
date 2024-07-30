@@ -29,7 +29,6 @@ Upto 5k: This category has the highest attrition rate with 163 employees leaving
 15k+: This category has the lowest attrition rate with 5 employees leaving.<br/>
 <br/>
 Attrition by Years At Company:<br/>
-
 1-2 Years: This group shows a significant increase in attrition, with a spike of 59 employees leaving.<br/>
 3-4 Years: Attrition rate decreases significantly from the previous year, with 39 employees leaving.<br/>
 5-6 Years: Attrition rate remains relatively consistent with 19 employees leaving.<br/>
@@ -38,14 +37,12 @@ Attrition by Years At Company:<br/>
 10+ Years: A noticeable decline in attrition is observed, with only 2 employees leaving.<br/>
 <br/>
 Attrition by Job Role:<br/>
-
 Laboratory Technician: This job role has the highest attrition rate with 62 employees leaving.<br/>
 Sales Executive: This job role has the second-highest attrition rate with 57 employees leaving.<br/>
 Research Scientist: This job role has the third-highest attrition rate with 47 employees leaving.<br/>
 Sales Representative: This job role has the lowest attrition rate with 33 employees leaving.<br/>
 <br/>
 Attrition by Gender:<br/>
-
 Male: This gender has a higher attrition rate with 140 employees leaving.<br/>
 Female: This gender has a lower attrition rate with 79 employees leaving.<br/>
 <br/>
