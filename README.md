@@ -3,7 +3,7 @@
 Project Title: Blinkit Analysis Dashboard
 
 Approach & Key Steps:
--Requirement Gathering: Defined business needs with stakeholders.
+-Requirement Gathering: Defined business needs with stakeholders.<br/>
 -Data Collection: Sourced and connected data in Power BI.
 -Data Cleaning: Ensured accuracy and completeness.
 -Data Modeling: Optimized relationships for analysis.
