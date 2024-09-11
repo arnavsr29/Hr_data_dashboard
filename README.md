@@ -4,7 +4,7 @@
 
 
 
-![hr_data_dashboard](https://github.com/user-attachments/assets/18f7ce2a-b844-4663-925b-8cac3d4c8a81)
+![Hr_Data_Dashboard](https://github.com/user-attachments/assets/18f7ce2a-b844-4663-925b-8cac3d4c8a81)
 
 This dashboard presents an overview of employee attrition within a company, providing insights into various factors that might influence employees leaving.<br/>
 <br/>
